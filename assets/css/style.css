@@ -20,9 +20,6 @@ html {
     color: #fff;
 }
 
-.main {
-}
-
 /* Header */
 .header {
     position: fixed;
@@ -182,8 +179,6 @@ html {
     display: flex;
     justify-content: space-around;
     padding: 32px 0;
-}
-.about__member-item {
 }
 .about__member-name {
     text-align: center;
